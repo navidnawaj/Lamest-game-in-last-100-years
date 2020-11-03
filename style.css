@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#UpperSec{
+    text-align: center;
+    padding: 25px 0;
+}
+#Play {
+    margin-bottom: 15px;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    border: none;
+}
+#match {
+    margin-top: 15px;
+    padding: 40px 25px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 50%;
+    background-color: #183642;
+    color: white;
+}
+button:focus{
+    outline: none;
+}
+#UpperSec h3{
+    margin-top: 18px;
+}
+#score{
+    color: #F2C14E;
+}
+
+#ShapeBody{
+    
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.leftsec{
+    width: 47%;
+    float: left;
+    padding: 10px;
+} 
+.rightsec{
+    width: 47%;
+    float: left;
+    padding: 10px;
+
+} 
